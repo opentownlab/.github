@@ -1,5 +1,5 @@
-# OTLab - OneTown Lab
-## Лаборатория проекта OTLegacy
+# #OTLegacy - OTLab
+## Лаборатория проекта #OTLegacy
 https://github.com/opentownlab
 <!--
 
